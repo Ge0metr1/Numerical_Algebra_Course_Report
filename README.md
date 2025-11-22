@@ -14,7 +14,7 @@ This repository aims to solve the one-dimensional Poisson equation with Dirichle
   Example script using SOR with a fixed relaxation factor to show the numerical solution and convergence behavior.
 
 - `1dSORomega.py`  
-  Example script to scan different SOR relaxation factors Ω and study how Ω affects convergence.
+  Example script to scan different SOR relaxation factors ω and study how ω affects convergence.
 
 - `1dSORstepsize.py`  
   Example script to study how the grid size (step size) influences SOR convergence and accuracy.
